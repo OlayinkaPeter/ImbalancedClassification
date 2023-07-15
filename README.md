@@ -1,4 +1,4 @@
-# Credit Risk Scoring Challenge | Logistic Regression | GermanCredit
+# Imbalanced Classification Assessment - Umnai // Olayinka
 
 The steps in the notebook are as follows: 
  
